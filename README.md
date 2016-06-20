@@ -5,6 +5,10 @@ Anonymous IRC-like multiuser chat using TOR hidden services, with emphasis in ne
 
 This is a simple client/server chat using TOR hidden services and the python Stem controller library, implemented in a single python file. License is GNU-GPL
 
+This version is incompatible with 2016 stem lib. Find a working update at:
+https://gist.github.com/torifier/f1a7c1ac7b6b003cd9e1c187df2c5347
+
+
 Usage
 -----
 	torirc.py [options]
