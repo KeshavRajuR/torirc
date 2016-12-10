@@ -1,3 +1,8 @@
+Latest all-in-one-file-release:   
+https://gist.github.com/torifier/f1a7c1ac7b6b003cd9e1c187df2c5347
+
+
+
 Torirc
 ======
 
